@@ -25,7 +25,6 @@ seating_arrangement.each_with_index do |row,row_number|
       puts seating_arrangement[row_number]
     end
 
-
   end
 
 end
